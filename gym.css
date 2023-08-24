@@ -1,0 +1,93 @@
+nav{
+    background-color: rgb(35, 35, 40);
+    position:fixed;
+}
+ul{
+    margin-right: 20%;
+    
+}
+li{
+    padding-left: 0%;
+    padding-right: 0%;
+    padding: 10%;
+    text-align: center;
+
+}
+ul li a:hover{
+    color: rgb(94, 250, 94);
+    border-bottom: 2px solid rgb(75, 250, 75);
+}
+.logo{
+    color: rgb(30, 195, 41);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.men1{
+    margin-right: -10%;
+}
+.ht{
+    padding: 0%;
+    position: absolute;
+    margin-top: 10%;
+    text-align: left;
+    margin-left: 5%;
+    width: 50%;
+    color: rgb(40, 153, 70);
+    
+
+}
+.men{
+    margin-left: 0%;
+    margin-top: 2.5%;
+    margin-right: -5%;
+    position: relative;
+    
+    
+}
+.sp{
+    color: darkgray;
+    text-align: center;
+    margin-left: 70%;
+    text-decoration: underline;
+}
+.ii{
+    width: 70%;
+    margin-top: 5%;
+    position: relative;
+    margin-left: 60%;
+}
+.h33{
+    text-align: end;
+    margin-right: 7%;
+    color: steelblue;
+}
+.kl{
+    margin-left: 75%;
+    text-align: center;
+    color: rgb(27, 134, 15);
+}
+.kll{
+    margin-left: 75%;
+    
+    display: flex;
+    text-align: center;
+    text-decoration: underline;
+    color: azure;
+    background-color: rgb(15, 26, 22);
+}
+.kl3{
+    margin-left: 40%;
+    width: fit-content;
+    text-align: center;
+    color: rgb(27, 134, 15);
+}
+.ii5{
+    width: 50%;
+    margin-left: 5%;
+}
+.exe{
+    color: rgb(7, 172, 43);
+    text-align: center;
+}
